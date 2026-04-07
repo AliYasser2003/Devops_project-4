@@ -27,7 +27,7 @@ jobs:
         run: docker build -t ${{ secrets.DOCKER_USERNAME }}/project4-app ./app
 
       - name: Push Docker image
-        run: docker push ${{ secrets.DOCKER_USERNAME }}/project4-app:${{ github.sha }}
+        run: run: docker push ${{ secrets.DOCKER_USERNAME }}/project4-app
 
       - name: Update kubeconfig
         run: aws eks update-kubeconfig --region eu-north-1 --name amazing-sheepdog-1775571418
