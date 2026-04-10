@@ -53,6 +53,7 @@ BACKEND
 Live Demo
 ************
 FRONTEND: http://a8919917d1c5c474aadc9e0ea6601ba9-631009467.eu-north-1.elb.amazonaws.com/
+********************************************************************************************************************************************************************
 BACKEND: http://a8919917d1c5c474aadc9e0ea6601ba9-631009467.eu-north-1.elb.amazonaws.com/api
 ********************************************************************************************************************************************************************
 The live demo is currently unavailable because the AWS EKS cluster was decommissioned to avoid ongoing infrastructure costs.
