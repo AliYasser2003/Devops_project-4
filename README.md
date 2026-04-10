@@ -10,5 +10,4 @@ using Kubernetes Ingress with path-based routing.
 
 Architecture
 ***************
-
-
+![App UI](ARCHITECTURE OF FINAL PRODUCTION.png)
