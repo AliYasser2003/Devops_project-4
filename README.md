@@ -60,6 +60,8 @@ The live demo is currently unavailable because the AWS EKS cluster was decommiss
 This project was successfully deployed and tested using AWS EKS with a LoadBalancer service. The full CI/CD pipeline and 
 Kubernetes configuration are included in this repository and can be redeployed at any time.
 
+## Author
+Ali Yasser
 
 
 
