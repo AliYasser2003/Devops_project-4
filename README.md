@@ -1,4 +1,4 @@
-DevOps Project 4 — CI/CD with Kubernetes (EKS)
+# DevOps Project 4 — CI/CD with Kubernetes (EKS)
 *************************************************
 
 Overview
